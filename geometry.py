@@ -2,7 +2,7 @@ import numpy as np
 
 eigenvalue_floor = 1e-10
 
-#Errors
+#errors and validation
 matrix = np.asarray(A, dtype=np.float64)
 if matrix.ndim != 2:
         raise ValueError(

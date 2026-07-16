@@ -1,0 +1,1 @@
+### Market correlation structure lives on a curved manifold; doing regime detection, forecasting, and portfolio optimization with geometry that respects that curvature beats the flat-space equivalent, specifically at regime transitions.

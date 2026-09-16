@@ -1,0 +1,10 @@
+load_french()
+
+clean_returns()
+
+shrink_cov()
+
+build_cov_sequence()
+
+check_mo()
+
